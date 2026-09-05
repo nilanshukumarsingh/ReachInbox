@@ -1,7 +1,5 @@
 # 🚀 ReachInbox - Full-Stack Email Job Scheduler & Dashboard
 
-> **Production-grade Email Scheduler & Real-Time Outreach Dashboard** built for the **Outbox Labs / ReachInbox SDE Intern Assignment**.
-
 Pixel-perfect implementation matching the provided **Figma design** (1440x900 desktop reference resolution and responsive) with a robust, persistent backend powered by **Express.js**, **BullMQ + Redis**, **Prisma ORM**, **Ethereal fake SMTP**, and **Slack Rate-Limit Notifications**.
 
 ---
